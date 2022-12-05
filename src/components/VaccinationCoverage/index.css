@@ -1,0 +1,13 @@
+.bar-chart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1c1c2b;
+  width: 80%;
+  margin-top: 20px;
+}
+.vaccination-coverage-heading {
+  color: #cbd5e1;
+  align-self: flex-start;
+  padding-left: 20px;
+}

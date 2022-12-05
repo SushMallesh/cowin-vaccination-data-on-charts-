@@ -1,0 +1,12 @@
+.pie-chart-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #1c1c2b;
+  width: 80%;
+  margin-top: 20px;
+}
+.vaccination-by-age-heading {
+  color: #cbd5e1;
+  text-align: left;
+  padding-left: 20px;
+}
